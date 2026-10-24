@@ -1,0 +1,14 @@
+/Users/arsheedalam/C#-Basics/DebuggingTechniques/bin/Debug/net10.0/DebuggingTechniques
+/Users/arsheedalam/C#-Basics/DebuggingTechniques/bin/Debug/net10.0/DebuggingTechniques.deps.json
+/Users/arsheedalam/C#-Basics/DebuggingTechniques/bin/Debug/net10.0/DebuggingTechniques.runtimeconfig.json
+/Users/arsheedalam/C#-Basics/DebuggingTechniques/bin/Debug/net10.0/DebuggingTechniques.dll
+/Users/arsheedalam/C#-Basics/DebuggingTechniques/bin/Debug/net10.0/DebuggingTechniques.pdb
+/Users/arsheedalam/C#-Basics/DebuggingTechniques/obj/Debug/net10.0/DebuggingTechniques.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arsheedalam/C#-Basics/DebuggingTechniques/obj/Debug/net10.0/DebuggingTechniques.AssemblyInfoInputs.cache
+/Users/arsheedalam/C#-Basics/DebuggingTechniques/obj/Debug/net10.0/DebuggingTechniques.AssemblyInfo.cs
+/Users/arsheedalam/C#-Basics/DebuggingTechniques/obj/Debug/net10.0/DebuggingTechniques.csproj.CoreCompileInputs.cache
+/Users/arsheedalam/C#-Basics/DebuggingTechniques/obj/Debug/net10.0/DebuggingTechniques.dll
+/Users/arsheedalam/C#-Basics/DebuggingTechniques/obj/Debug/net10.0/refint/DebuggingTechniques.dll
+/Users/arsheedalam/C#-Basics/DebuggingTechniques/obj/Debug/net10.0/DebuggingTechniques.pdb
+/Users/arsheedalam/C#-Basics/DebuggingTechniques/obj/Debug/net10.0/DebuggingTechniques.genruntimeconfig.cache
+/Users/arsheedalam/C#-Basics/DebuggingTechniques/obj/Debug/net10.0/ref/DebuggingTechniques.dll
