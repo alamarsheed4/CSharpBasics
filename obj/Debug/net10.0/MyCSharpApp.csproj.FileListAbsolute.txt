@@ -12,4 +12,3 @@
 /Users/arsheedalam/C#-Basics/MyCSharpApp/obj/Debug/net10.0/MyCSharpApp.pdb
 /Users/arsheedalam/C#-Basics/MyCSharpApp/obj/Debug/net10.0/MyCSharpApp.genruntimeconfig.cache
 /Users/arsheedalam/C#-Basics/MyCSharpApp/obj/Debug/net10.0/ref/MyCSharpApp.dll
-/Users/arsheedalam/C#-Basics/MyCSharpApp/obj/Debug/net10.0/MyCSharpApp.sourcelink.json
