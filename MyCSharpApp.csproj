@@ -6,41 +6,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-     <StartupObject>EmployeeSalarySystemRuntime.Program</StartupObject>
+     <StartupObject></StartupObject>
 
   </PropertyGroup>
 
   <ItemGroup>
     <Compile Remove="Arrays.cs" />
-    <Compile Remove="Datatypes.cs" />
-    <Compile Remove="Methods.cs" />
-    <Compile Remove="MethodWithParamsAndReturnTypes.cs" />
-    <Compile Remove="MethodWithReturnTypes.cs" />
-    <Compile Remove="Program.cs" />
-    <Compile Remove="String.cs" />
-    <Compile Remove="VarAndDynamic.cs" />
-    <Compile Remove="ConstReadonlyExample.cs" />
-    <Compile Remove="AllFiles.cs" />
-    <Compile Remove="ExcelFiles.cs" />
-    <Compile Remove="PPTFiles.cs" />
-    <Compile Remove="PPTFiles.cs" />
-    <Compile Remove="MainProgram.cs" />
-    <Compile Remove="Logger.cs" />
-    <Compile Remove="Instantiate.cs" />
-    <Compile Remove="Members.cs" />
-    <Compile Remove="Inheritence.cs" />
-    <Compile Remove="Inheritence2.cs" />
-    <Compile Remove="Interface.cs" />
-    <Compile Remove="Interface-demo.cs" />
-    <Compile Remove="Abstraction/Abstraction-demo.cs" />
-    <Compile Remove="Abstraction/Abstraction-live-demo.cs" />
-    <Compile Remove="Polymorphism/CompileTime-Polymorphism.cs" />
-    <Compile Remove="Polymorphism/Runtime-Polymorphism.cs" />
-
-    <Compile Remove="Operators.cs" />
-    <Compile Remove="ConstructorDemo.cs" />
-    <Compile Remove="ReadLine.cs" />
-    <Compile Remove="DatatypeConversions.cs" />
 </ItemGroup>
 
 </Project>
