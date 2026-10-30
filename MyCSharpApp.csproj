@@ -6,12 +6,31 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-     <StartupObject></StartupObject>
+     <StartupObject>Tasks_WaitAll.Program</StartupObject>
+     <LangVersion>latest</LangVersion>
 
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Arrays.cs" />
+    <Compile Remove="Program.cs" />
+    <Compile Remove="Methods/MethodsRevision.cs" />
+    <Compile Remove="Methods/Methods_advanced.cs" />
+    <Compile Remove="Methods/Methods_preparation_inShortcut_way.cs" />
+    <Compile Remove="Parameters/value_type_params.cs" />
+    <Compile Remove="Parameters/in_type_params.cs" />
+    <Compile Remove="Parameters/ref_type_params.cs" />
+    <Compile Remove="Parameters/Out-type-params.cs" />
+    <Compile Remove="Parameters/diff-ref-out-params.cs" />
+    <Compile Remove="Parameters/generic_typeParam_withEntity.cs" />
+    <Compile Remove="Parameters/generic_typeParam_withWhere.cs" />
+    <Compile Remove="Parameters/Generic_typeParam.cs" />
+    <Compile Remove="Parameters/named_typeParams.cs" />
+    <Compile Remove="Parameters/optional_typesParams.cs" />
+    <Compile Remove="Parameters/params-typeParams.cs" />
+    <Compile Remove="Tasks/SyncCalls.cs" />
+    <Compile Remove="Tasks/Tasks.cs" />
+    <Compile Remove="Tasks/Task_wait.cs" />
+    <!-- <Compile Remove="Tasks/Task_waitAll.cs" /> -->
     
 </ItemGroup>
 
