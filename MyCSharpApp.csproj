@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-     <StartupObject>Tasks_WaitAll.Program</StartupObject>
+     <StartupObject>runtimeException_handle.Program</StartupObject>
      <LangVersion>latest</LangVersion>
 
   </PropertyGroup>
@@ -30,7 +30,13 @@
     <Compile Remove="Tasks/SyncCalls.cs" />
     <Compile Remove="Tasks/Tasks.cs" />
     <Compile Remove="Tasks/Task_wait.cs" />
-    <!-- <Compile Remove="Tasks/Task_waitAll.cs" /> -->
+    <Compile Remove="Tasks/Task_waitAll.cs" />
+    <Compile Remove="Tasks/ConcurrencyProblem.cs" />
+    <Compile Remove="Tasks/Sync-Call-withThreadID.cs" />
+    <Compile Remove="Tasks/Sync-Calls-withDelayResponse.cs" />
+    <Compile Remove="Tasks/Task_delay.cs" />
+    <Compile Remove="Tasks/Task_different_dataTypes.cs" />
+    <Compile Remove="Tasks/Task_different_dataTypeswait.cs" />
     
 </ItemGroup>
 
