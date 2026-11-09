@@ -46,6 +46,16 @@ namespace CsharpCourse_TupleExample
             Tuple<int, string, bool> person2 = new Tuple<int, string, bool>(50, "Alice", false);
 
             Console.WriteLine($"Person ID : {person2.Item1}, Person Name : {person2.Item2}, Person Active: {person2.Item3}");
+        
+            var studentReport = ("John", 450, "A");
+            Console.WriteLine($"Person Name : {studentReport.Item1}, Total Marks : {studentReport.Item2}, Grade : {studentReport.Item3}");
+        
+            Console.WriteLine($"Student Report type : {studentReport.GetType()}");
+        
+        var studentReport1 = (Name:"Robert", Marks:432, Grade:"B");
+        Console.WriteLine($"Person Name : {studentReport1.Name}, Total Marks : {studentReport1.Marks}, Grade : {studentReport1.Grade}");
+        
+        
         }
     }
 }
