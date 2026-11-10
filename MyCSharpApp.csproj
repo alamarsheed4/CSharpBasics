@@ -6,18 +6,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-     <StartupObject>CsharpCourse_TupleExample.TupleExample</StartupObject>
+     <StartupObject></StartupObject>
 
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="program.cs" />
-    <Compile Remove="Arrays/ArrayList.cs" />
-    <Compile Remove="Arrays/1.cs" />
-    <Compile Remove="List/1.cs" />
-    <Compile Remove="Dictionary/1.cs" />
-    <Compile Remove="HashTable/1.cs" />
-    <Compile Remove="HashSet/1.cs" />
+    <!-- <Compile Remove="program.cs" /> -->
+    
     
 </ItemGroup>
 
