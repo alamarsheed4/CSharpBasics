@@ -1,0 +1,12 @@
+/Users/arsheedalam/C#-Basics/ProjectA/obj/Debug/net10.0/projectA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arsheedalam/C#-Basics/ProjectA/obj/Debug/net10.0/projectA.AssemblyInfoInputs.cache
+/Users/arsheedalam/C#-Basics/ProjectA/obj/Debug/net10.0/projectA.AssemblyInfo.cs
+/Users/arsheedalam/C#-Basics/ProjectA/obj/Debug/net10.0/projectA.csproj.CoreCompileInputs.cache
+/Users/arsheedalam/C#-Basics/ProjectA/obj/Debug/net10.0/projectA.sourcelink.json
+/Users/arsheedalam/C#-Basics/projectA/bin/Debug/net10.0/projectA.deps.json
+/Users/arsheedalam/C#-Basics/ProjectA/bin/Debug/net10.0/projectA.dll
+/Users/arsheedalam/C#-Basics/ProjectA/bin/Debug/net10.0/projectA.pdb
+/Users/arsheedalam/C#-Basics/ProjectA/obj/Debug/net10.0/projectA.dll
+/Users/arsheedalam/C#-Basics/ProjectA/obj/Debug/net10.0/refint/projectA.dll
+/Users/arsheedalam/C#-Basics/ProjectA/obj/Debug/net10.0/projectA.pdb
+/Users/arsheedalam/C#-Basics/projectA/obj/Debug/net10.0/ref/projectA.dll
